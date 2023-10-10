@@ -40,3 +40,10 @@
 ![ID](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![AI](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=juanor9&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanor9)
+![](https://github-readme-streak-stats.herokuapp.com/?user=juanor9&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanor9&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
